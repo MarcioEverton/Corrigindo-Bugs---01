@@ -1,4 +1,4 @@
-# Corrigindo-Bugs-01 Desafio Explorer.
+# Desafio 1 Explorer.
 
 Neste Desafio,tivemos que aplicar conhecimento adquiridos no stage 1 do Explorer, com HTML e CSS.
 
